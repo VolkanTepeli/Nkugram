@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967566131888",
+    "project_id": "nkugram",
+    "storage_bucket": "nkugram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967566131888:android:a9adc6bb4d4de0d1e6f175",
+        "android_client_info": {
+          "package_name": "com.volkantepeli.nkugram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967566131888-krvh64tj3utkg19osficlco0bg4lfk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cuJ-1O10zq0H_OOGf5DQHEyHDsOAl0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967566131888-krvh64tj3utkg19osficlco0bg4lfk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
